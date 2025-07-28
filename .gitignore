@@ -1,7 +1,35 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Data
+*.csv
+*.npy
+*.npz
+
+# Plots
+*.png
+*.jpg
+*.svg
+
+# OS files
+.DS_Store
+Thumbs.db
+
 
 # C extensions
 *.so
