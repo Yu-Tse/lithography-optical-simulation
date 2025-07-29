@@ -23,3 +23,10 @@ This project provides a simulation framework for analyzing photolithographic mas
 git clone https://github.com/Yu-Tse/lithography-optical-simulation.git
 cd lithography-optical-simulation
 pip install -r requirements.txt
+```
+
+---
+## 🙋‍♂️ Author
+
+**Yu-Tse Wu** (吳雨澤)  
+*Master’s Student at the Institute of Innovation and Semiconductor Manufacturing, National Sun Yat-sen University*
